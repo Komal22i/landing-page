@@ -136,7 +136,7 @@ const Navbar = () => {
                 </a>
                 <a
                   href="javascript:void(0)"
-                  className="inline-block w-full px-4 py-2 text-center text-gray-800 bg-white rounded-md shadow hover:bg-gray-100"
+                  className="hover:text-secondary border-secondary border-2 hover:bg-white hover:border-secondary hover:border-2 inline-block w-full px-4 py-2 text-center text-gray-800 bg-white rounded-md shadow hover:bg-gray-100"
                 >
                   Talk To Sales
                 </a>
@@ -153,7 +153,7 @@ const Navbar = () => {
           </a>
           <a
             href="javascript:void(0)"
-            className="px-4 py-2 text-white bg-secondary rounded-md shadow hover:scale-105  "
+            className="hover:text-secondary border-secondary border-2 hover:bg-white hover:border-secondary hover:border-2 px-4 py-2 text-white bg-secondary rounded-md shadow hover:scale-105  "
           >
             Talk To Sales
           </a>

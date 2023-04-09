@@ -15,11 +15,11 @@ const HomeBanner = () => {
         </p>
 
         <div className=" md:flex gap-5 pt-6">
-          <button className="flex gap-2 hover:text-white hover:bg-secondary lg:w-48 w-full py-3 bg-white rounded-md text-secondary px-5 items-center justify-center">
+          <button className="flex gap-2 hover:text-white border-white hover:bg-secondary lg:w-48 w-full py-3 bg-white rounded-md text-secondary px-5 items-center justify-center lg:my-0 my-1">
             <AiOutlinePlayCircle size={20}/>
            <span className="font-semibold">Showreel</span> 
           </button>
-          <button className="hover:text-secondary hover:bg-white hover:border-secondary hover:border-2 bg-secondary py-3 px-6 rounded-md lg:w-48 w-full lg:my-0 my-4">
+          <button className="hover:text-secondary border-secondary border-2 hover:bg-white hover:border-secondary hover:border-2 bg-secondary py-3 px-6 rounded-md lg:w-48 w-full lg:my-0 my-4">
         
            <span className="">Get in touch</span> 
           </button>
